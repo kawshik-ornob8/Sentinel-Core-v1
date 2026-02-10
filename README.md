@@ -18,7 +18,8 @@ This template highlights achievements, skills, and projects. It's designed to pr
 
 ## Demo
 
-Live portfolio demo: **https://your-portfolio-demo.com** (example: https://kawshik.dev).
+Live portfolio demo: **https://your-portfolio-demo.com**
+Example demo: **https://kawshik.dev**
 
 ## Features
 
