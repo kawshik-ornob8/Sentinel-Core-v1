@@ -1,4 +1,4 @@
-# Kawshik Ahmed Ornob Portfolio Template
+# Personal Portfolio Template
 
 Welcome to the repository for this portfolio template! This responsive developer portfolio website showcases skills, experiences, and projects for a professional online presence.
 
@@ -72,7 +72,12 @@ Example demo: **https://kawshik.dev**
 
 ## SEO Keywords
 
-Personal portfolio template, developer portfolio website, cybersecurity portfolio, responsive portfolio, HTML CSS JavaScript portfolio, portfolio demo.
+- Personal portfolio template
+- Developer portfolio website
+- Cybersecurity portfolio
+- Responsive portfolio
+- HTML CSS JavaScript portfolio
+- Portfolio demo
 
 ## Contact Information
 
