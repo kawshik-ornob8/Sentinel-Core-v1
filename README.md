@@ -71,7 +71,7 @@ Live portfolio demo: **https://kawshik.dev**
 
 ## SEO Keywords
 
-Personal portfolio template, developer portfolio website, cybersecurity portfolio, responsive portfolio, HTML CSS JavaScript portfolio, Kawshik Ahmed Ornob portfolio demo (replace with your name).
+Personal portfolio template, developer portfolio website, cybersecurity portfolio, responsive portfolio, HTML CSS JavaScript portfolio, portfolio demo.
 
 ## Contact Information
 
@@ -79,4 +79,3 @@ Personal portfolio template, developer portfolio website, cybersecurity portfoli
 - LinkedIn: linkedin.com/in/kawshik-ornob8
 - GitHub: github.com/kawshik-ornob8
 - YouTube: youtube.com/@iam_kawshik
-
