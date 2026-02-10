@@ -18,7 +18,7 @@ This template highlights achievements, skills, and projects. It's designed to pr
 
 ## Demo
 
-Live portfolio demo: **https://your-portfolio-demo.com**
+Live portfolio demo: **https://kawshik.dev**
 Example demo: **https://kawshik.dev**
 
 ## Features
@@ -66,7 +66,7 @@ Example demo: **https://kawshik.dev**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/kawshik-ornob8/Sentinel-Core-v1.git
    ```
 2. Open the index.html file in your browser to view the portfolio.
 
@@ -76,7 +76,7 @@ Personal portfolio template, developer portfolio website, cybersecurity portfoli
 
 ## Contact Information
 
-- Email: yourname@example.com
-- LinkedIn: linkedin.com/in/your-handle
-- GitHub: github.com/your-handle
-- YouTube: youtube.com/@your-handle
+- Email: contact@kawshik.dev
+- LinkedIn: [linkedin.com/in/kawshik-ornob8](https://www.linkedin.com/in/kawshik-ornob8/)
+- GitHub: [github.com/kawshik-ornob8](https://github.com/kawshik-ornob8)
+- YouTube: [youtube.com/@iam_kawshik](https://www.youtube.com/@iam_kawshik)
