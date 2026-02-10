@@ -18,7 +18,7 @@ This template highlights achievements, skills, and projects. It's designed to pr
 
 ## Demo
 
-Live portfolio demo: **https://kawshik.dev**
+Live portfolio demo: **https://kawshik.dev** (replace with your own demo URL).
 
 ## Features
 
@@ -65,7 +65,7 @@ Live portfolio demo: **https://kawshik.dev**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kawshik-ornob8/portfolio.git
+   git clone https://github.com/your-username/your-portfolio.git
    ```
 2. Open the index.html file in your browser to view the portfolio.
 
