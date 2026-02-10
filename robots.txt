@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemaps for all content nodes
+Sitemap: https://kawshik.dev/sitemap.xml
+
+# Optional: Block crawling of search result pages if using Blogger/Search tools
+Disallow: /search
+Disallow: /?m=1

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://kawshik.dev/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://blog.kawshik.dev/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://kawshik.dev/about.html</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://kawshik.dev/contact.html</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://spellstrike.kawshik.dev/</loc>
+    <lastmod>2026-02-02</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://klink.kawshik.dev/</loc>
+    <lastmod>2026-01-25</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://kawshik.dev/makecv/</loc>
+    <lastmod>2026-01-29</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://kawshik.dev/k-img/</loc>
+    <lastmod>2026-01-25</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://kawshik.dev/bangla_summarizer/</loc>
+    <lastmod>2026-01-24</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://kawshik.dev/EUZAAR/</loc>
+    <lastmod>2026-01-24</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://kawshik.dev/HelloDr/</loc>
+    <lastmod>2026-01-24</lastmod>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://kawshik.dev/IoT-Environmental-Monitoring-System/</loc>
+    <lastmod>2026-01-24</lastmod>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://kawshik.dev/privacy-policy.html</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.20</priority>
+  </url>
+  <url>
+    <loc>https://kawshik.dev/disclaimer.html</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.20</priority>
+  </url>
+</urlset>
