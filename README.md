@@ -1,6 +1,6 @@
 # Kawshik Ahmed Ornob Portfolio Template
 
-Welcome to the repository for my portfolio template! This responsive developer portfolio website showcases skills, experiences, and projects for a professional online presence. View the live demo at **https://kawshik.dev**.
+Welcome to the repository for this portfolio template! This responsive developer portfolio website showcases skills, experiences, and projects for a professional online presence. View the live demo at **https://kawshik.dev**.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to the repository for my portfolio template! This responsive developer p
 
 ## About
 
-This template highlights achievements, skills, and projects. It's designed to provide a professional and engaging online presence, reflecting a focus on cybersecurity, engineering, and development. Replace the content with your own details to personalize it.
+This template highlights achievements, skills, and projects. It's designed to provide a professional and engaging online presence, reflecting your professional focus areas. Replace the content with your own details to personalize it.
 
 ## Demo
 
