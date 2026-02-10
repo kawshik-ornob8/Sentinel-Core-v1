@@ -1,10 +1,11 @@
-# Kawshik Ahmed Ornob Portfolio
+# Kawshik Ahmed Ornob Portfolio Template
 
-Welcome to the repository for my personal portfolio website! This project showcases my skills, experiences, and projects, giving visitors a glimpse into my professional journey.
+Welcome to the repository for my personal portfolio template! This responsive developer portfolio website showcases skills, experiences, and projects for a professional online presence. View the live demo at **https://kawshik.dev**.
 
 ## Table of Contents
 
 - [About](#about)
+- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Projects](#projects)
@@ -14,6 +15,10 @@ Welcome to the repository for my personal portfolio website! This project showca
 ## About
 
 This portfolio highlights my achievements, skills, and the projects I've worked on. It's designed to provide a professional and engaging online presence, reflecting my passion for cybersecurity, engineering, and development.
+
+## Demo
+
+Live portfolio demo: **https://kawshik.dev**
 
 ## Features
 
@@ -61,12 +66,18 @@ This portfolio highlights my achievements, skills, and the projects I've worked 
 1. Clone the repository:
    ```bash
    git clone https://github.com/kawshik-ornob8/portfolio.git
+   ```
 2. Open the index.html file in your browser to view the portfolio.
-- **Contact Information**
-   - Email: kawshik15-14750@diu.edu.bd
-   - LinkedIn: linkedin.com/in/kawshik-ornob8
-   - GitHub: github.com/kawshik-ornob8
-   - YouTube: youtube.com/@iam_kawshik
 
+## SEO Keywords
+
+Personal portfolio template, developer portfolio website, cybersecurity portfolio, responsive portfolio, HTML CSS JavaScript portfolio, Kawshik Ahmed Ornob.
+
+## Contact Information
+
+- Email: kawshik15-14750@diu.edu.bd
+- LinkedIn: linkedin.com/in/kawshik-ornob8
+- GitHub: github.com/kawshik-ornob8
+- YouTube: youtube.com/@iam_kawshik
 
 
