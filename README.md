@@ -8,7 +8,6 @@ Welcome to the repository for this portfolio template! This responsive developer
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Projects](#projects)
 - [Setup Instructions](#setup-instructions)
 - [Contact Information](#contact-information)
 
@@ -40,27 +39,6 @@ Example demo: **https://kawshik.dev**
 
 - **Backend**:
   - None for this static portfolio
-
-- **Additional Tools**:
-  - Adobe XD and Figma for design prototyping
-
-## Projects
-
-1. **[Hello Dr.](https://kawshik-ornob8.github.io/Hello-Dr/)**  
-   A virtual healthcare platform using HTML, CSS, and JavaScript.  
-   [GitHub Repository](https://github.com/kawshik-ornob8/Hello-Dr)
-
-2. **[DeadHead's E-commerce Website](https://kawshik-ornob8.github.io/DeadHead-s-Ecommerce-Website/)**  
-   A Django-based e-commerce solution.  
-   [GitHub Repository](https://github.com/kawshik-ornob8/DeadHead-s-Ecommerce-Website)
-
-3. **[KMCash](https://xd.adobe.com/view/704c264d-87e8-4fcc-975d-05479ea881e9-251f/?fbclid=IwAR0kH-XD40vX0pBIwb9m7kd2TDTP1cM1uEmbPf1DOP06iGGPRmgp2dhnAv0)**  
-   A user-friendly online money transfer application designed in Adobe XD.  
-   [GitHub Repository](https://github.com/kawshik-ornob8/KMCash)
-
-4. **[IoT Environmental Monitoring System](https://youtu.be/Av2uzMKMC6g?si=5fGENG3W5GuJJx3M)**  
-   Monitors environmental data using ESP32 and ThingSpeak.  
-   [GitHub Repository](https://github.com/kawshik-ornob8/IoT-Environmental-Monitoring-System)
 
 ## Setup Instructions
 
