@@ -31,7 +31,13 @@ function copyContactEmail(element) {
 }
 
 // --- 3. FORM SUBMISSION ---
-async function handleFormSubmission(event) {
+function setFormFeedback(feedback, message, cssClass) {
+    feedback.innerHTML = message;
+    feedback.className = `form-feedback ${cssClass}`;
+    feedback.style.display = 'block';
+}
+
+async function submitContactForm(event) {
     event.preventDefault();
     const form = event.target;
     const btn = document.getElementById('form-submit-btn');
@@ -39,33 +45,47 @@ async function handleFormSubmission(event) {
     const btnText = btn.querySelector('span');
 
     btn.disabled = true;
-    btnText.innerText = "Sending...";
-    feedback.style.display = "none";
+    btnText.innerText = 'Sending...';
+    feedback.style.display = 'none';
+    feedback.className = 'form-feedback';
 
     const formData = new FormData(form);
     const now = new Date();
     formData.append('_subject', `Portfolio Message from ${formData.get('name')} [${now.toLocaleString()}]`);
 
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 15000);
+
     try {
-        // We use the 'yourornob+contact@gmail.com' alias to ensure it bypasses old domain locks
-        const response = await fetch("https://formsubmit.co/ajax/yourornob+contact@gmail.com", {
-            method: "POST",
+        const response = await fetch('https://formsubmit.co/ajax/contact@kawshik.dev', {
+            method: 'POST',
             body: formData,
-            headers: { 'Accept': 'application/json' }
+            headers: { 'Accept': 'application/json' },
+            signal: controller.signal
         });
 
-        if (response.ok) {
-            feedback.innerHTML = '<i class="ri-checkbox-circle-fill"></i> Message sent successfully!';
-            feedback.className = "form-feedback success";
-            feedback.style.display = "block";
-            form.reset();
-        } else { throw new Error(); }
+        if (!response.ok) {
+            throw new Error(`Server returned ${response.status}`);
+        }
+
+        setFormFeedback(feedback, '<i class="ri-checkbox-circle-fill"></i> Message sent successfully!', 'success');
+        form.reset();
     } catch (error) {
-        feedback.innerHTML = '<i class="ri-error-warning-fill"></i> Oops! Something went wrong.';
-        feedback.className = "form-feedback error";
-        feedback.style.display = "block";
+        const errorMessage = error.name === 'AbortError'
+            ? '<i class="ri-error-warning-fill"></i> Request timed out. Please try again.'
+            : '<i class="ri-error-warning-fill"></i> Failed to send. Please check your internet connection.';
+        console.error('Submission Error:', error);
+        setFormFeedback(feedback, errorMessage, 'error');
     } finally {
+        clearTimeout(timeout);
         btn.disabled = false;
-        btnText.innerText = "Send Message";
+        btnText.innerText = 'Send Message';
     }
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+    const form = document.getElementById('portfolio-contact-form');
+    if (form) {
+        form.addEventListener('submit', submitContactForm);
+    }
+});
