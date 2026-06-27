@@ -17,8 +17,8 @@ This template highlights achievements, skills, and projects. It's designed to pr
 
 ## Demo
 
-Live portfolio demo: **https://kawshik.dev**
-Example demo: **https://kawshik.dev**
+Live portfolio demo: **https://kawshik.dev/Sentinel-Core-v1/**
+Example demo: **https://kawshik.dev/Sentinel-Core-v1/**
 
 ## Features
 
